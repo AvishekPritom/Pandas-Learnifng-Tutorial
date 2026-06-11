@@ -1,2 +1,2 @@
-# Pandas-Learnifng-Tutorial
+# Pandas-Learning-Tutorial
 Here are some of Pandas basic learning Format For beginners
